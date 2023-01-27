@@ -3,6 +3,12 @@
   src: url(https://fonts.google.com/specimen/Overpass?preview.text_type=custom);
 }
 
+@font-face {
+  font-family: Ubuntu;
+  src: url(https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom);
+}
+
 body {
   font-family: Overpass;
+  font-size: 16px;
 }
